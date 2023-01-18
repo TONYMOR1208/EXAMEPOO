@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\EXA_POO\bin\Debug\netcoreapp3.1\EXA_POO.exe
+C:\Users\DELL\Desktop\EXA_POO\bin\Debug\netcoreapp3.1\EXA_POO.deps.json
+C:\Users\DELL\Desktop\EXA_POO\bin\Debug\netcoreapp3.1\EXA_POO.runtimeconfig.json
+C:\Users\DELL\Desktop\EXA_POO\bin\Debug\netcoreapp3.1\EXA_POO.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\EXA_POO\bin\Debug\netcoreapp3.1\EXA_POO.dll
+C:\Users\DELL\Desktop\EXA_POO\bin\Debug\netcoreapp3.1\EXA_POO.pdb
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.AssemblyInfo.cs
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.dll
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.pdb
+C:\Users\DELL\Desktop\EXA_POO\obj\Debug\netcoreapp3.1\EXA_POO.genruntimeconfig.cache

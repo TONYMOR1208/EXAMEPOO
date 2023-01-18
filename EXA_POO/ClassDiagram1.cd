@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EXA_POO.EMPLEADOCOMERCIAL">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAIAAQAAAAAAAA=</HashCode>
+      <FileName>EMPLEADOCOMERCIAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EXA_POO.EMPLEADOREPARTIDOR">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="EXA_POO.EMPLEADOS" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="4.003" />
+        <Point X="5.5" Y="4.375" />
+        <Point X="8.125" Y="4.375" />
+        <Point X="8.125" Y="6.812" />
+        <Point X="7.75" Y="6.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAIAAQAAAAAAAA=</HashCode>
+      <FileName>EMPLEADOREPARTIDOR.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EXA_POO.EMPLEADOS">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAIAAAAAAAgAAAAAAAIgAAAAQAAAAAAAA=</HashCode>
+      <FileName>EMPLEADOS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXA_POO.Program">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EXA_POO.Imensaje">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Imensaje.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>
